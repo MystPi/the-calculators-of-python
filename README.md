@@ -21,7 +21,7 @@ A few calculators made with different Python parsing libraries. These are the on
 ```
 
 ## Usage
-Assuming you're on Linux:
+Linux:
 ```bash
 # PLY Calculator
 python3 ~/the-calculators-of-python-main/src/plyCalc.py
@@ -32,4 +32,4 @@ python3 ~/the-calculators-of-python-main/src/slyCalc.py
 # Lark Calculator
 python3 ~/the-calculators-of-python-main/src/larkCalc.py
 ```
-Probably somewhat the same on Windows.
+This was actually made on an iPad, using the *Pythonista* app.
