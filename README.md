@@ -9,13 +9,13 @@ These are the ones I used in this repo:
 ## Usage
 ```bash
 # PLY Calculator
-python3 ~/the-calculators-of-python/src/plyCalc.py
+python3 ~/the-calculators-of-python-main/src/plyCalc.py
 
 # SLY Calculator
-python3 ~/the-calculators-of-python/src/slyCalc.py
+python3 ~/the-calculators-of-python-main/src/slyCalc.py
 
 # Lark Calculator
-python3 ~/the-calculators-of-python/src/larkCalc.py
+python3 ~/the-calculators-of-python-main/src/larkCalc.py
 ```
 
 ```
