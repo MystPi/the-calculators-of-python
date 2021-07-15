@@ -32,4 +32,3 @@ python3 ~/the-calculators-of-python-main/src/slyCalc.py
 # Lark Calculator
 python3 ~/the-calculators-of-python-main/src/larkCalc.py
 ```
-This was actually made on an iPad, using the *Pythonista* app.
